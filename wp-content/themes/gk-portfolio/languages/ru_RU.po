@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GK Portfolio v10.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-04 12:52+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ portfolio
+#: 404.php:15
+msgid "Not Found"
+msgstr "Ничего не найдено"
+
+# @ portfolio
+#: 404.php:20
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ошибка 404. Страница не найдена"
+
+# @ portfolio
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Воспользуйтесь поиском."
+
+# @ portfolio
+#: archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "День: %s"
+
+# @ portfolio
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Месяц: %s"
+
+# @ portfolio
+#: archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Год: %s"
+
+# @ portfolio
+#: archive.php:23
+msgid "Blog Archives"
+msgstr "Архивы блога"
+
+# @ portfolio
+#: author.php:17
+#, php-format
+msgid "All posts by %s"
+msgstr "Все записи %s"
+
+# @ portfolio
+#: category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Категория: %s"
+
+# @ portfolio
+#: comments-template.php:28
+msgid "Pingback:"
+msgstr ""
+
+# @ portfolio
+#: comments-template.php:30 comments-template.php:65 content-meta.php:34
+#: page.php:32
+msgid "Edit"
+msgstr "Изменить"
+
+# @ portfolio
+#: comments-template.php:36
+msgid "Post author"
+msgstr "Автор записи"
+
+# @ portfolio
+#: comments-template.php:50
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+# @ portfolio
+#: comments-template.php:56
+msgid "Your comment is awaiting moderation."
+msgstr "Спасибо! Ваш комментарий ожидает проверки."
+
+# @ portfolio
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Пожалуйста, введите пароль для просмотра комментариев."
+
+# @ portfolio
+#: comments.php:26
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ portfolio
+#: comments.php:28
+msgid "2 Comments"
+msgstr "2 Комментария"
+
+# @ portfolio
+#: comments.php:30
+#, php-format
+msgid "%1$s Comments"
+msgstr "%1$s Комментариев"
+
+# @ portfolio
+#: comments.php:54
+msgid "Comment navigation"
+msgstr "Комментарий навигация"
+
+# @ portfolio
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr;  Предыдущие комментарии"
+
+# @ portfolio
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+# @ portfolio
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто"
+
+# @ portfolio
+#: comments.php:68
+msgid "Leave a Reply"
+msgstr "Ответить"
+
+# @ portfolio
+#: content-archive.php:29 content-gallery.php:17 content-gallery.php:21
+#: content-image.php:17 content-image.php:21 content-link.php:15
+#: content-quote.php:15 content-video.php:21 content-video.php:26
+#: content-video.php:28 content.php:18 content.php:22
+msgid "Read more"
+msgstr "Подробнее"
+
+# @ portfolio
+#: content-archive.php:30 content-gallery.php:22 content-image.php:22
+#: content-link.php:16 content-quote.php:16 content-video.php:31
+#: content.php:23 image.php:31 page.php:28
+msgid "Pages:"
+msgstr "Страницы: "
+
+# @ portfolio
+#: content-meta.php:27
+msgid ", "
+msgstr ""
+
+# @ portfolio
+#: content-meta.php:29
+msgid "Posted in "
+msgstr "Категория: "
+
+# @ portfolio
+#: content-none.php:8
+msgid "Nothing Found"
+msgstr "Страница не найдена"
+
+# @ portfolio
+#: content-none.php:14
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Начать здесь</a>."
+
+# @ portfolio
+#: content-none.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "К сожалению, по вашему запросу ничего не найдено."
+
+# @ portfolio
+#: content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы можем и найти то, что вы  ищете. Возможно, поиск может помочь."
+
+# @ portfolio
+#: functions.php:87
+msgid "Navigation Menu"
+msgstr "Навигация меню"
+
+# @ portfolio
+#: functions.php:88
+msgid "Social Menu"
+msgstr ""
+
+# @ portfolio
+#: functions.php:255
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ portfolio
+#: functions.php:272
+msgid "Bottom widget area"
+msgstr ""
+
+# @ portfolio
+#: functions.php:274
+msgid "Appears at the bottom of the website."
+msgstr ""
+
+# @ portfolio
+#: functions.php:306
+msgid "Older posts"
+msgstr "Назад"
+
+# @ portfolio
+#: functions.php:309
+msgid "Page"
+msgstr "Страница"
+
+# @ portfolio
+#: functions.php:309
+msgid "of"
+msgstr "из"
+
+# @ portfolio
+#: functions.php:312
+msgid "Newer posts"
+msgstr "Вперед"
+
+# @ portfolio
+#: functions.php:428
+msgid "Share:"
+msgstr "Поделиться:"
+
+# @ portfolio
+#: header.php:22
+msgid "You're using an unsupported version of Internet Explorer. Please <a href=\"http://windows.microsoft.com/en-us/internet-explorer/products/ie/home\">upgrade your browser</a> for the best user experience on our site. Thank you."
+msgstr ""
+
+# @ portfolio
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Назад"
+
+# @ portfolio
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Вперед <span class=\"meta-nav\">&rarr;</span>"
+
+# @ portfolio
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ portfolio
+#: tag.php:13
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Метка: %s"
+
+# @ portfolio
+#: theme-customizer.php:13
+msgid "Font options"
+msgstr "Варианты шрифтов"
+
+# @ portfolio
+#: theme-customizer.php:21
+msgid "Layout & Features"
+msgstr "Расположение элементов "
+
+# @ portfolio
+#: theme-customizer.php:115
+msgid "Logo image"
+msgstr "Изображение логотипа"
+
+# @ portfolio
+#: theme-customizer.php:127
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+# @ portfolio
+#: theme-customizer.php:138
+msgid "Header Font"
+msgstr "Шрифт заголовка"
+
+# @ portfolio
+#: theme-customizer.php:159
+msgid "Google Font URL for Header"
+msgstr ""
+
+# @ portfolio
+#: theme-customizer.php:169
+msgid "Body Font"
+msgstr "Шрифт текста"
+
+# @ portfolio
+#: theme-customizer.php:190
+msgid "Google Font URL for the Body"
+msgstr ""
+
+# @ portfolio
+#: theme-customizer.php:200
+msgid "Amount of article columns"
+msgstr "Количество колонок"
+
+# @ portfolio
+#: theme-customizer.php:203
+msgid "4 Column"
+msgstr "4 Колонки"
+
+# @ portfolio
+#: theme-customizer.php:204
+msgid "3 Columns"
+msgstr "3 Колонки"
+
+# @ portfolio
+#: theme-customizer.php:205
+msgid "2 Columns"
+msgstr "2 Колонки"
+
+# @ portfolio
+#: theme-customizer.php:214
+msgid "Date format"
+msgstr "Формат даты"
+
+# @ portfolio
+#: theme-customizer.php:217
+msgid "Default theme format"
+msgstr ""
+
+# @ portfolio
+#: theme-customizer.php:218
+msgid "WordPress Date Format"
+msgstr ""
+
+# @ perfetta
+#: theme-customizer.php:227
+msgid "Enable word-break"
+msgstr ""
